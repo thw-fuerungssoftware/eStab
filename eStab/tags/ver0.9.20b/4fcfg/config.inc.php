@@ -75,7 +75,7 @@
     $conf_4f ["Titelkurz"]        =  "eStab";
     $conf_4f ["SubTitel"]["env"]  =  " - elektronischer Nachrichtenvordruck";
     $conf_4f ["SubTitel"]["etb"]  =  "Einsatztagebuch";
-    $conf_4f ["Version"]          =  "v0.9.20 25.09.2009 ";
+    $conf_4f ["Version"]          =  "v0.9.20b 25.05.2011 ";
       // Hier kann die eigene Dienststelle eingetragen werden Zeilenumbruch mit <br>
     $conf_4f ["Stelle"]           =  "Einsatzleitung Kreis Heinsberg" ;
       // Programm information und Versionsnummer
