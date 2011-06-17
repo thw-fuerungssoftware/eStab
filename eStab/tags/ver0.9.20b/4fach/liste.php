@@ -746,7 +746,7 @@ class Listen extends kategorien {
              } else {
                  echo "<td style=\"text-align: center; vertical-align: middle;\">";
                  echo "<a href=\"mainindex.php?action=erledigt&00_lfd=".$row["00_lfd"]."&todo=set\" target=\"_self\">\n";
-                 echo "<p><img src=\"".$conf_design_path."/task_due.gif\" alt=\"NICHT erledigt\" border=\"0\"></p>";
+                 echo "<img src=\"".$conf_design_path."/task_due.gif\" alt=\"NICHT erledigt\" border=\"0\">";
                  echo "</td>\n";
              }
 
